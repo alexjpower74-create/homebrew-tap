@@ -1,8 +1,8 @@
 class Rig < Formula
   desc "Orchestration for a crew of AI coding agents working one repo at once"
   homepage "https://github.com/alexjpower74-create/rig"
-  url "https://github.com/alexjpower74-create/rig/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/alexjpower74-create/rig/archive/refs/tags/v3.0.0.tar.gz"
+  sha256 "2d276bba1e7f5e66c59d16957a6bdc2b7db9f04e96a26eb69209985083eafe24"
   license "MIT"
 
   depends_on "node"
